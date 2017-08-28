@@ -1,10 +1,48 @@
+body{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 .logo{
 	width:4em;
+	margin-left:5%;
+	margin-top:5%;
 }
 
 .fuentes{
 	font-family: 'Josefin Sans', sans-serif;
+	color:white;
 }
 .redes{
 	width:3em;
+	margin-bottom:10%;
+}
+.banner1{
+	width:9.8em;
+	
+	
+}
+.banner2{
+	width:21em;
+	
+}
+.banner3{
+	width:22em;
+	
+}
+.par-a{
+	margin-top:3%;
+}
+.img-low{
+	margin-top:7%;
+}
+
+.img-post{
+	width:30em;	
+	margin-top:5%;
+}
+.texto-contenido{
+	font-family: 'Josefin Sans', sans-serif;
+	color:white;
+	text-align:justify;
 }
